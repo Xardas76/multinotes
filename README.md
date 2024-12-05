@@ -1,0 +1,1 @@
+**Collaborative Workspace Application** that allows users from multiple organizations (tenants) to create, collaborate on, and share notes. The system must be highly scalable, secure, and optimized for multi-tenant usage.
